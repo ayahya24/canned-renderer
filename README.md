@@ -1,6 +1,9 @@
 # canned-renderer
 A small 3d software renderer written in Java.
 
+![alt text](https://github.com/ayahya24/canned-renderer/blob/master/pengu.gif "Logo Title Text 1")
+
+
 This is just a small 3d software renderer I wrote for fun. It uses java.awt for drawing to the screen.
 The only built-in graphics function used were fillRect to set an individual pixel and to clear the framebuffer.
 For matrix multiplication, I used jblas, which is similar to numpy but is a library for Java.
