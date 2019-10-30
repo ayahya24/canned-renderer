@@ -16,3 +16,6 @@ Limitations
 ------------------------------------------------------------------------------------
 * .obj model loader can only load models with split edges due to handling of texture indices.
 * Camera is at a fixed position because I didn't implement a proper model-view matrix.
+
+Penguin model for demonstration purposes was made by nabarun1011:
+https://free3d.com/3d-model/emperor-penguin-601811.html
