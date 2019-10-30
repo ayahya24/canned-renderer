@@ -418,7 +418,6 @@ public class Display extends JFrame
                     err += dy;
                 }
                 y += sy;
-                //out.println("Cumbucha"+sy+","+","+y+","+p2[1]);
             }
         }
         g.fillRect((int)x,(int) y, 1, 1);
